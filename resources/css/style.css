@@ -8,6 +8,7 @@ html {
 nav.vertical > ul {
   list-style-type: none;
   font-size: 18px;
+  font-weight: bold;
 }
 h1 {
   font-size: 70px;
@@ -34,8 +35,14 @@ p {
 .footer {
   background-color: dimgray;
   text-align: left;
+  font-size: 11px;
 }
 #copyright {
   font-size: 11px;
   color: white;
+  float: left;
+  margin: 0 10px 10px 10px;
+}
+li {
+  padding: 10px 10px 0 10px;
 }
